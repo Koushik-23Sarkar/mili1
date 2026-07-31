@@ -42,7 +42,7 @@
 </td>
 <td width="35%">
 
-<img src="https://leetcard.jacoblin.cool/Miliritgithub?theme=dark&font=Karma&ext=contest" width="100%" />
+<img src="https://leetcard.jacoblin.cool/Swati_Mukherjee?theme=dark&font=Karma&ext=contest" width="100%" />
 
 </td>
 </tr>
